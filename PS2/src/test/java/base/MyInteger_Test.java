@@ -30,5 +30,19 @@ public class MyInteger_Test {
 	public void test() {
 		assertTrue(1==1);
 	}
-
+	
+	@Test
+	public void testisEven(){
+		assertTrue(true);
+	}
+	
+	@Test
+	public void testisOdd(){
+		assertTrue(true);
+	}
+	
+	@Test
+	public void testisPrime(){
+		assertTrue(true);
+	}
 }
