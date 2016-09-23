@@ -45,4 +45,11 @@ public class MyInteger_Test {
 	public void testisPrime(){
 		assertTrue(true);
 	}
+	
+	@Test
+	public void testequals(){
+		assertTrue(true);
+	}
+	
+	
 }
